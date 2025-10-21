@@ -1,0 +1,16 @@
+timerDelay = 75
+list = dummyhead
+
+windowSizeX = 1024
+windowSizeY = 768
+
+genX = 0.06
+genY = 0.06
+bodySize = 10
+bodyVelocity = 3
+
+starPositionX = 512
+starPositionY = 384
+starSize = 30
+starVelocityX = 0
+starVelocityY = 0
